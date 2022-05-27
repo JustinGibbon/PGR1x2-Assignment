@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGR1x2 Assignment", "PGR1x2 Assignment\PGR1x2 Assignment.csproj", "{64C35ED4-0939-49B5-8DE0-35D236BBDA10}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PGR182_class_exercise", "..\PGR182_class_exercise\PGR182_class_exercise\PGR182_class_exercise.csproj", "{8A6F45BD-F347-49A0-A3EA-DE51B3B1456A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PGR1x2 Assignment", "PGR1x2 Assignment\PGR1x2 Assignment.csproj", "{64C35ED4-0939-49B5-8DE0-35D236BBDA10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{64C35ED4-0939-49B5-8DE0-35D236BBDA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64C35ED4-0939-49B5-8DE0-35D236BBDA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64C35ED4-0939-49B5-8DE0-35D236BBDA10}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8A6F45BD-F347-49A0-A3EA-DE51B3B1456A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8A6F45BD-F347-49A0-A3EA-DE51B3B1456A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8A6F45BD-F347-49A0-A3EA-DE51B3B1456A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8A6F45BD-F347-49A0-A3EA-DE51B3B1456A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
